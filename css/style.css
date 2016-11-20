@@ -49,7 +49,6 @@
 
 	p {
 		margin: 0 0 2.25em 0;
-		font-size: 3em;
 	}
 
 	h1, h2, h3, h4, h5, h6 {
@@ -503,6 +502,15 @@
 			}
 
 /* List */
+
+
+li {
+    margin: 20px;
+    list-style: none;
+	font-size: 3em;
+
+}
+
 
 	ol {
 		list-style: decimal;
