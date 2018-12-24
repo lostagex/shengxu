@@ -7,17 +7,17 @@
 /* Basic */
 
 	body, input, select, textarea {
-		font-size: 14 pt;
+		font-size: 14pt;
 	}
 
 /* Header */
 
 	#header {
-		width: 30em;
+		width: 20em;
 	}
 
 /* Wrapper */
 
 	#wrapper {
-		padding-right: 30em;
+		padding-right: 20em;
 	}
