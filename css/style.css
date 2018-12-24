@@ -982,7 +982,7 @@ li {
 			}
 
 			#header > header h1 {
-				font-size: 1.75em;
+				font-size: 10.75em;
 				margin: 0;
 			}
 
@@ -1095,7 +1095,7 @@ li {
 			#footer .copyright li {
 				border-left: solid 1px #d4d4d4;
 				display: inline-block;
-				font-size: 10.8em;
+				font-size: 0.8em;
 				margin-left: 1em;
 				padding-left: 1em;
 			}
