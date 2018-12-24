@@ -1,13 +1,5 @@
 # Site settings
 title: Sheng Xu
-name: 董小姐
-location: 大连
-company: IBM
-position: Java开发工程师
-github: https://github.com/
-facebook: https://www.facebook.com/
-phone: 1580424XXXX
-email: xxxx@xxx.com
 email: sheng.xu2@ucalgary.ca
 description: > # this means to ignore newlines until "baseurl:"
   Computer Vision, mobile laser scanning, LiDAR
