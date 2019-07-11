@@ -15,20 +15,25 @@ layout: default
 							<h3>Homepage</h3>
 					</header>
 						<p>Welcome to Sheng's Hompage!</p>
-						<!-- <li class="fa fa-2x fa-newspaper-o">  January 08,2015: CV is created !</li> -->
-						<!-- <li class="fa fa-2x fa-newspaper-o">  November 16,2018: Received Ph.D. Degree from University of Calgary!</li> -->
-						<!-- <li class="fa fa-2x fa-newspaper-o">  December 04,2018: Joined in Nanjing Forestry University!</li> -->				
+						<li class="fa fa-2x fa-newspaper-o">  January 08,2015: CV is created !</li>
+						<li class="fa fa-2x fa-newspaper-o">  November 16,2018: Received Ph.D. Degree from University of Calgary!</li>
+						<li class="fa fa-2x fa-newspaper-o">  December 04,2018: Joined in Nanjing Forestry University!</li>
+					
 				</div>
 			</section>
 
 		<!-- Two -->
 			<section id="two">
 				<div class="container">
-					<h3>Education Experience</h3>
+					<h3>Short Bio</h3>
+					<p>Currently, Sheng Xu is a Lecture in the College of Information Science and Technology at the Nanjing Forestry University. Dr. Xu holds a Ph.D. in Digital Image Systems from the University of Calgary, and a B.Eng in the Computer Science and Technology from the Nanjing Forestry University. </p>
 					<ul class="feature-icons">
- 					<li class="fa-code">Write all the code</li>
-
-
+<!-- 					<li class="fa-code">Write all the code</li>
+						<li class="fa-cubes">Stack small boxes</li>
+						<li class="fa-book">Read books and stuff</li>
+						<li class="fa-coffee">Drink much coffee</li>
+						<li class="fa-bolt">Lightning bolt</li>
+						<li class="fa-users">Shadow clone technique</li> -->
 					</ul>
 				</div>
 			</section>
@@ -36,8 +41,9 @@ layout: default
 		<!-- Three -->
 			<section id="three">
 				<div class="container">
-					<h3>Work Experience</h3>
-					<div class="features">
+					<h3>Interests</h3>
+					<p>Mobile Mapping, Vegetation Mapping and Computer Vision</p>
+<!-- 					<div class="features">
 						<article>
 							<a href="#" class="image"><img src="images/pic01.jpg" alt="" /></a>
 							<div class="inner">
@@ -52,7 +58,14 @@ layout: default
 								<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
 							</div>
 						</article>
-					</div> 
+						<article>
+							<a href="#" class="image"><img src="images/pic03.jpg" alt="" /></a>
+							<div class="inner">
+								<h4>Snapped dark matter in the wild</h4>
+								<p>Integer eu ante ornare amet commetus vestibulum blandit integer in curae ac faucibus integer adipiscing ornare amet.</p>
+							</div>
+						</article>
+					</div> -->
 				</div>
 			</section>
 	
@@ -62,7 +75,7 @@ layout: default
 								<div class="container">
 									<h3>Publications</h3>
 									
-									<li> [5]. Xu, Sheng, et al. "Automatic extraction of street trees’ nonphotosynthetic components from MLS data." International Journal of Applied Earth Observation and Geoinformation 69 (2018): 64-77.</li>	
+									<li> [5]. Xu, Sheng, et al. "Automatic extraction of street treesâ€™ nonphotosynthetic components from MLS data." International Journal of Applied Earth Observation and Geoinformation 69 (2018): 64-77.</li>	
 									<li> [4]. Xu, Sheng, and Shanshan Xu. "A Minimum-Cost Path Model to the Bridge Extraction from Airborne LiDAR Point Clouds." Journal of the Indian Society of Remote Sensing (2018): 1-9.</li>	
 									<li> [3]. Xu, Sheng, et al. "A supervoxel approach to the segmentation of individual trees from LiDAR point clouds." Remote Sensing Letters 9.6 (2018): 515-523.</li>						
 									<li> [2]. Xu, Sheng, et al. "Individual stem detection in residential environments with MLS data." Remote Sensing Letters 9.1 (2018): 51-60. </li>	
